@@ -2,4 +2,4 @@
 ![image](https://raw.githubusercontent.com/hualaX/ios/main/icon/personal.png)
 
 
-##  [rule](https://www.github.com/hualaX/ios/main/rule)
+##  [rules](https://www.github.com/hualaX/ios/main/rule)
