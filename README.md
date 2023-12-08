@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Image Alt Text" width="500"/>
 
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_1944.gif" alt="Image 1" style="width: 33.33%;"/>
-  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_1943.gif" alt="Image 2" style="width: 33.33%;"/>
-  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_1945.gif" alt="Image 3" style="width: 33.33%;"/>
+  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_1989.gif" alt="Image 1" style="width: 33.33%;"/>
+  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_2006.gif" alt="Image 2" style="width: 33.33%;"/>
+  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_2007.wedp" alt="Image 3" style="width: 33.33%;"/>
 </div>
 
 
