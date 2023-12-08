@@ -9,4 +9,6 @@
 
 * [Shadowrocket配置](https://github.com/hualaX/ios/tree/main/shadowrocket_profile.conf)
 
+## 特别鸣谢
+* [@Sliverkiss](https://github.com/Sliverkiss)
 
