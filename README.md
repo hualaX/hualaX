@@ -1,12 +1,10 @@
 # Hi there I am [hualaX](https://www.github.com/hualaX)
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Image Alt Text" width="500"/>
-
-<div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_1989.gif" alt="GIF 1" style="width: 33.33%;"/>
-  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_2006.gif" alt="GIF 2" style="width: 33.33%;"/>
-  <img src="https://raw.githubusercontent.com/hualaX/hualaX/main/icon/IMG_2007.webp" alt="GIF 3" style="width: 33.33%;"/>
-</div>
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/Centralmatrix3/Centralmatrix3@beta/GitHub/diaoyu.gif" width="100px" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/Centralmatrix3/Centralmatrix3@beta/GitHub/liwu.gif" width="100px" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/Centralmatrix3/Centralmatrix3@beta/GitHub/taikongren.gif" width="100px" align="center">    
+</p>
 
 ## ios
 
